@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rn-practice-2021",
+    "slug": "rn-practice-2021",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rn-practice-2021"
+}
